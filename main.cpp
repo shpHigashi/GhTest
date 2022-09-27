@@ -27,7 +27,7 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine
 		ClearDrawScreen();
 		
 		DrawString(160, 160, "Git test なかはるきっず", GetColor(255, 255, 255));
-		DrawString(160, 180, "ちんぷん誰か来て", GetColor(255, 255, 255));
+		DrawString(160, 180, "おやおや、おやおやおやおや", GetColor(255, 255, 255));
 		DrawString(160, 200, "あなた、覗きましたね？", GetColor(255, 255, 255));
 
 		// 裏画面を表画面と入れ替える
