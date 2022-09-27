@@ -26,7 +26,7 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine
 		// 画面のクリア
 		ClearDrawScreen();
 		
-		DrawString(160, 160, "Git test なかはるきっず", GetColor(255, 255, 255));
+		DrawString(160, 160, "Git test こんにちは", GetColor(255, 255, 255));
 		DrawString(160, 180, "おやおや、おやおやおやおや", GetColor(255, 255, 255));
 		DrawString(160, 200, "あなた、覗きましたね？", GetColor(255, 255, 255));
 		DrawString(160, 220, "あかりは諦めました", GetColor(255, 255, 255));
